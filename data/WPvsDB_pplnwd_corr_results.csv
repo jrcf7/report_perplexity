@@ -1,7 +1,0 @@
-Model,p,rho
-GPT2_data_PPL_permutation,0.0,-0.3268580085667411
-GPT2-Medium_data_PPL_permutation,0.0,-0.33222653406815217
-GPT2-Large_data_PPL_permutation,0.0,-0.33880636570772077
-GPT2-XL_data_PPL_permutation,0.0,-0.34103081140128405
-OLMo-1B_data_PPL_permutation,0.0,-0.35461744860232364
-OLMo-7B_data_PPL_permutation,0.0,-0.38313919238414784
